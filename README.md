@@ -20,7 +20,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/FlightSearchApp.git
+git clone https://github.com/ibneajmal77/SabreDevApi.git
 cd FlightSearchApp
 Restore NuGet packages:
 
