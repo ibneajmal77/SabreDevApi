@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightSearchApp.Console", "FlightSearchApp.Console\FlightSearchApp.Console.csproj", "{9D1B5E6F-CB45-48C1-AE24-78DD8D44918B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightSearchApp.Infrastructure", "FlightSearchApp.Infrastructure\FlightSearchApp.Infrastructure.csproj", "{ACD57B99-339D-4A61-9FDA-7561C8054595}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightSearchApp.Domain", "FlightSearchApp.Domain\FlightSearchApp.Domain.csproj", "{1F3A87CA-309C-4334-A49D-D1751AAA3DB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightSearchApp.Tests", "FlightSearchApp.Tests\FlightSearchApp.Tests.csproj", "{31512D71-ACE7-4748-9CC0-056389BC0FFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightSearchApp.Application", "FlightSearchApp.Application\FlightSearchApp.Application.csproj", "{B9AA3E24-0AC2-4EF7-87E3-29138E53EE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D1B5E6F-CB45-48C1-AE24-78DD8D44918B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1B5E6F-CB45-48C1-AE24-78DD8D44918B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1B5E6F-CB45-48C1-AE24-78DD8D44918B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1B5E6F-CB45-48C1-AE24-78DD8D44918B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD57B99-339D-4A61-9FDA-7561C8054595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD57B99-339D-4A61-9FDA-7561C8054595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD57B99-339D-4A61-9FDA-7561C8054595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD57B99-339D-4A61-9FDA-7561C8054595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3A87CA-309C-4334-A49D-D1751AAA3DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3A87CA-309C-4334-A49D-D1751AAA3DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3A87CA-309C-4334-A49D-D1751AAA3DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3A87CA-309C-4334-A49D-D1751AAA3DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31512D71-ACE7-4748-9CC0-056389BC0FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31512D71-ACE7-4748-9CC0-056389BC0FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31512D71-ACE7-4748-9CC0-056389BC0FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31512D71-ACE7-4748-9CC0-056389BC0FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9AA3E24-0AC2-4EF7-87E3-29138E53EE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AA3E24-0AC2-4EF7-87E3-29138E53EE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9AA3E24-0AC2-4EF7-87E3-29138E53EE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9AA3E24-0AC2-4EF7-87E3-29138E53EE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2927D881-14F1-48F8-9677-035830CABBF3}
+	EndGlobalSection
+EndGlobal
